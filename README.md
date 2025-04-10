@@ -20,7 +20,7 @@ Ensure that your input file (e.g., `sample.txt`) is in the same directory as the
 To run the script, use the following command:
 
 ```
-python anagram_finder.py sample.txt
+python anagram_finder.py
 ```
 
 This will output the anagram groups in your terminal, where each group of anagrams is printed on a single line.
